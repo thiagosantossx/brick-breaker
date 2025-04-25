@@ -35,8 +35,8 @@ brick-breaker/
 
 -----main.py         
 -----README.md  
-----images/images/brick-breaker0.png	
-----images/images/brick-breaker1.png
+----images/brick-breaker0.png	
+----images/brick-breaker1.png
 	
 ```
 
